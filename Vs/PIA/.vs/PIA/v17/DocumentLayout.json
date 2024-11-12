@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\models\\dbmodels\\piainternetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\models\\dbmodels\\piainternetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\models\\dbmodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\models\\dbmodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\models\\dbmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\models\\dbmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\models\\dbmodels\\piainternetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\models\\dbmodels\\piainternetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Migrations\\20241112213317_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PIA\\Migrations\\20241112213317_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\models\\dbmodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\models\\dbmodels\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|c:\\users\\sanch\\downloads\\pia_fase3-pweb-clase\\pia_fase3_empresadeinternet\\vs\\pia\\pia\\models\\dbmodels\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82F5DCE0-927C-4A46-BB88-65ABCDAC4C70}|PIA\\PIA.csproj|solutionrelative:pia\\models\\dbmodels\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PIA\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PIA\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-12T21:38:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241112213317_init.cs",
+              "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Migrations\\20241112213317_init.cs",
+              "RelativeDocumentMoniker": "PIA\\Migrations\\20241112213317_init.cs",
+              "ToolTip": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Migrations\\20241112213317_init.cs",
+              "RelativeToolTip": "PIA\\Migrations\\20241112213317_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:33:20.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Paquete.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\Paquete.cs",
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\Paquete.cs",
@@ -62,12 +96,11 @@
               "RelativeToolTip": "PIA\\Models\\dbModels\\Paquete.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:49:48.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T17:49:48.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DetalleVenta.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\DetalleVenta.cs",
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\DetalleVenta.cs",
@@ -75,12 +108,11 @@
               "RelativeToolTip": "PIA\\Models\\dbModels\\DetalleVenta.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:49:22.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T17:49:22.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "PIA\\Views\\Shared\\_LoginPartial.cshtml",
@@ -88,24 +120,24 @@
               "RelativeToolTip": "PIA\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T17:33:52.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T17:33:52.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\Role.cs",
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\Role.cs",
               "ToolTip": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\Role.cs",
               "RelativeToolTip": "PIA\\Models\\dbModels\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:10:05.303Z"
+              "WhenOpened": "2024-11-12T17:10:05.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\Venta.cs",
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\Venta.cs",
@@ -117,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Opinione.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\Opinione.cs",
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\Opinione.cs",
@@ -125,8 +157,7 @@
               "RelativeToolTip": "PIA\\Models\\dbModels\\Opinione.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:09:06.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T17:09:06.693Z"
             },
             {
               "$type": "Document",
@@ -136,40 +167,40 @@
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\ApplicationUser.cs",
               "RelativeToolTip": "PIA\\Models\\dbModels\\ApplicationUser.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:04:35.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PiaInternetContext.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\PiaInternetContext.cs",
               "RelativeDocumentMoniker": "PIA\\Models\\dbModels\\PiaInternetContext.cs",
               "ToolTip": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Models\\dbModels\\PiaInternetContext.cs",
               "RelativeToolTip": "PIA\\Models\\dbModels\\PiaInternetContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwA4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:02:12.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Program.cs",
               "RelativeDocumentMoniker": "PIA\\Program.cs",
               "ToolTip": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\Program.cs",
               "RelativeToolTip": "PIA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T17:01:43.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sanch\\Downloads\\PIA_FASE3-PWEB-CLASE\\PIA_Fase3_EmpresaDeInternet\\Vs\\PIA\\PIA\\appsettings.json",
               "RelativeDocumentMoniker": "PIA\\appsettings.json",

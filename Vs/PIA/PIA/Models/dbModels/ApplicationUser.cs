@@ -19,10 +19,6 @@ namespace PIA.Models.dbModels
         [Column("idRol")]
         public int IdRol { get; set; }
 
-        [ForeignKey("IdRol")]
-        [InverseProperty("Usuarios")]
-        public virtual Role IdRolNavigation { get; set; } = null!;
-
         [InverseProperty("IdUsuarioNavigation")]
         public virtual ICollection<Opinione> Opiniones { get; set; } = new List<Opinione>();
 
