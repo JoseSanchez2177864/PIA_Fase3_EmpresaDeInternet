@@ -1,14 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Identity;
 
 namespace PIA.Models.dbModels
 {
-    public class ApplicationUser
+    public class ApplicationUser : IdentityUser<int>
     {
-        [Key]
-        [Column("idUsuario")]
-        public int IdUsuario { get; set; }
 
         [StringLength(50)]
         [Unicode(false)]

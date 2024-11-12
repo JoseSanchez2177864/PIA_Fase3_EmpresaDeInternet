@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace PIA.Models.dbModels;
 
-public partial class PiaInternetContext : IdentityDbContext<ApplicationUser, IdentityRole<int>,int>
+public partial class PiaInternetContext : IdentityDbContext<ApplicationUser, IdentityRole<int>, int>
 {
     public PiaInternetContext()
     {
@@ -27,6 +27,7 @@ public partial class PiaInternetContext : IdentityDbContext<ApplicationUser, Ide
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<DetalleVenta>(entity =>
         {
             entity.HasKey(e => new { e.IdVenta, e.IdPaquete }).HasName("PK__DetalleV__E13BEC213BB480B7");
